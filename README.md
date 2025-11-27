@@ -4,6 +4,10 @@
 
 
  **作者联系方式**:ImageVisioner@outlook.com
+ **参考文献**
+* Y. Cao, M. Y. Yang, and C. Tisse, “Effective Strip Noise Removal for Low-textured Infrared Images Based on 1D Guided Filtering,” IEEE Trans. Circuits Syst. Video Technol., vol. 26, no. 12, pp. 2176–2188, 2016.
+
+* He K, Sun J, Tang X. Guided image filtering[J]. IEEE transactions on pattern analysis and machine intelligence, 2012, 35(6): 1397-1409.
 
 ## 📋 功能特性
 
